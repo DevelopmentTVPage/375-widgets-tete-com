@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "tete"
+baseURL = "https:\/\/widgets.tete.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+firstPartyCookies = false
+cookieDomain = "tete.com"
